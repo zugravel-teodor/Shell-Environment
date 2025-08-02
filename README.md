@@ -14,8 +14,9 @@ SENV is a highly customizable and EXTREMELY lightweight shell dashboard TUI desi
 ---
 
 ## How to Use: ❓
-1. To open SENV every time you boot, add the following line to your .bashrc or .zshrc: ```python3 /path/to/senv.py```
-2. To add an alias type: `alias package='python3 /path/to/senv.py'` in your  .bashrc or .zshrc
+1. Open your terminal and run: `python3 /path/to/setup.py`
+2. To open SENV every time you boot, add the following line to your .bashrc or .zshrc: ```python3 /path/to/senv.py```
+3. To add an alias type: `alias package='python3 /path/to/senv.py'` in your  .bashrc or .zshrc
 
 
 ---
@@ -46,7 +47,7 @@ Feel free to delete any lines of code you don't need.
 ---
 
 ## Additional Resources: 🌐
-- SENV website: soon . . .
+- SENV website: https://zugravel-teodor.github.io/senv_website/
 - SENV Manifesto: https://zugravel-teodor.github.io/The%20SENV%20manifesto.pdf
 
 ---
